@@ -1,0 +1,30 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: darkgoldenrod;
+
+}
+h7{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.name-highlighter{
+color: darkred;
+}
+.name-highlighter2{
+    color: darkslategrey;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
